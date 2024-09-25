@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+## I’m currently working on an Emergency response mobile app(Dart)
+## I’m currently learning Java,Dart,HTML/CSS/Javascript
 <!--
 **Lovesh-2002/Lovesh-2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
